@@ -186,18 +186,18 @@ header a:hover{text-decoration: none;color:#9919;}
         height:200px;
         background-size: cover;
         /* alt: "scout" */
-    }        
+}        
     #cxteam{
-        background-image: url("images/Icecream.jpg");
+        background-image: url("images/cxteam.JPG");
         background-repeat: no-repeat;
-        margin-left: 4em;
+        margin-left: 2em;
         margin-bottom:1em;
         float:right;
         width:250px;
-        height:200px;
+        height:250px;
         background-size: cover;
         /* alt: "cxteam" */
-    }   
+}   
     #ffa{
         background-image: url("images/ffa.jpg");
         background-repeat: no-repeat;
@@ -208,7 +208,7 @@ header a:hover{text-decoration: none;color:#9919;}
         height:300px;
         background-size: cover;
         /* alt: "ffa" */
-    }   
+}   
     .onehalf{
         float:left;
         width:50%;
