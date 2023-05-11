@@ -187,16 +187,16 @@ header a:hover{text-decoration: none;color:#9919;}
         background-size: cover;
         /* alt: "scout" */
 }        
-    #cxteam{
-        background-image: url("images/cxteam.JPG");
-        background-repeat: no-repeat;
-        margin-left: 2em;
-        margin-bottom:1em;
-        float:right;
-        width:250px;
-        height:200px;
-        background-size: cover;
-        /* alt: "cxteam" */
+#cxteam{
+    background-image: url("images/scout.jpg");
+    background-repeat: no-repeat;
+    margin-left: 2em;
+    margin-bottom:1em;
+    float:right;
+    width:250px;
+    height:200px;
+    background-size: cover;
+    /* alt: "scout" */
 }   
     #ffa{
         background-image: url("images/ffa.jpg");
